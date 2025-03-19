@@ -1,2 +1,2 @@
 # HibernateExp
-Example of hibernates
+Example of hibernates HibernateExp
